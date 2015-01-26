@@ -1,6 +1,6 @@
 {
   "name": "atoms",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An atomic toolkit for javascript applications. Inspired by Clojure.",
   "main": "index.js",
   "scripts": {
