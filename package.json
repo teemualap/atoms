@@ -23,9 +23,6 @@
     "url": "https://github.com/teemualap/atoms/issues"
   },
   "homepage": "https://github.com/teemualap/atoms",
-  "dependencies": {
-    "mori": "^0.3.2"
-  },
   "devDependencies": {
     "mocha": "^2.1.0"
   }
